@@ -1,4 +1,4 @@
-#Project: Receptionist Hell Author KQ v 5.4.933
+#Project: Receptionist Hell Author KQ v 5.4.934
 
 #so far the script and dialogue works great, there's just no graphical interface yet so it's difficult to read in the terminal
 def game_over():
