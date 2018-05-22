@@ -163,6 +163,8 @@ def response_1b():
         
 #-----------
 def question_1():
+    print("*An elderly woman approaches your desk, the smell of old-people-soap so potent it chokes the air from your lungs*")
+    print("")
     ans = input(" Excuse me, are you the receptionist? yes|no : ")
     ans = ans.lower()
     if ans == 'yes':
